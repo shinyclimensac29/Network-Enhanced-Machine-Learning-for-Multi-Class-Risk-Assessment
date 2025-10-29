@@ -349,9 +349,6 @@ If you use this code or methodology in your research, please cite:
 }
 
 ```
-
-**Preprint**: [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
-
 ---
 
 ## 🤝 Contributing
@@ -403,14 +400,19 @@ SOFTWARE.
 
 ## 👥 Authors
 
-**[Your Name]**
-- Email: your.email@institution.edu
-- GitHub: [@yourusername](https://github.com/yourusername)
-- ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+\author[1]{\fnm{Shinyclimensa} \sur{C}}\email{shinyclimensa.c2022@vitstudent.ac.in}
+\author*[1]{\fnm{Parthiban} \sur{A}}\email{parthiban.a@vit.ac.in}
 
-**[Supervisor Name]**
-- Email: supervisor.email@institution.edu
-- ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+\affil[1]{
+  \orgdiv{School of Advanced Sciences}, 
+  \orgdiv{Department of Mathematics}, 
+  \orgname{Vellore Institute of Technology}, 
+  \city{Vellore}, 
+  \state{Tamil Nadu}, 
+  \postcode{632014}, 
+  \country{India}
+}
+
 
 ---
 
