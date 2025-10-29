@@ -1,0 +1,55 @@
+{
+  "dataset": {
+    "name": "risk.csv",
+    "n_samples": 1364,
+    "n_features": 114,
+    "n_classes": 6,
+    "imbalance_ratio": 77.1
+  },
+  "network": {
+    "n_nodes": 96,
+    "n_edges": 374,
+    "density": 0.07434210526315789,
+    "n_communities": 7,
+    "modularity": 0.2930474952238358,
+    "assortativity": -0.25995273236221605
+  },
+  "best_model": {
+    "name": "gb",
+    "test_accuracy": 0.7326007326007326,
+    "test_balanced_accuracy": 0.44055522803150887,
+    "test_f1_macro": 0.4589282073324626,
+    "cohen_kappa": 0.5381138897258211,
+    "roc_auc_macro": 0.8515816903697893
+  },
+  "feature_importance": {
+    "top_5_features": [
+      "_year",
+      "classification_alert notification",
+      "_hazard_count",
+      "classification_information notification for follow-up",
+      "classification_information notification for attention"
+    ],
+    "top_5_importance": [
+      0.07912087912087905,
+      0.07057387057387053,
+      0.04200244200244193,
+      0.03894993894993889,
+      0.013431013431013376
+    ]
+  },
+  "ablation": {
+    "most_important_group": "content",
+    "importance_delta": 0.025656419098915584
+  },
+  "statistical_tests": {
+    "most_significant_feature": "out_strength",
+    "kw_p_value": 2.7446479900259028e-18,
+    "effect_size": "medium"
+  },
+  "temporal_robustness": {
+    "temporal_f1_macro": 0.38277198678555086,
+    "degradation": 0.07615622054691173,
+    "degradation_pct": 16.594364724184775
+  }
+}

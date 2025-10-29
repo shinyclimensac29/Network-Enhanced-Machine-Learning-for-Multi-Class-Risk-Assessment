@@ -1,0 +1,7 @@
+model_a,model_b,p_value,b_better,a_better,n_discordant
+gb,rf_bal,1.0,12,13,25
+gb,balanced_rf,2.4755093752659718e-08,17,70,87
+gb,logreg_bal,0.0,17,151,168
+rf_bal,balanced_rf,1.0542396022827916e-07,20,72,92
+rf_bal,logreg_bal,0.0,16,149,165
+balanced_rf,logreg_bal,1.6653345369377348e-15,10,91,101

@@ -1,0 +1,12 @@
+{
+  "num_nodes": 96,
+  "num_edges": 374,
+  "density": 0.07434210526315789,
+  "largest_wcc_nodes": 96,
+  "num_components": 1,
+  "avg_clustering": 0.008012638795828897,
+  "transitivity": 0.22354897218863362,
+  "avg_degree": 25.270833333333332,
+  "diameter": 4,
+  "avg_shortest_path": 3.528947368421053
+}

@@ -1,0 +1,19 @@
+true_class,predicted_class,count,pct_of_true
+not serious,serious,15,24.193548387096776
+not serious,undecided,11,17.741935483870968
+undecided,not serious,9,34.61538461538461
+undecided,serious,7,26.923076923076923
+serious,not serious,6,3.896103896103896
+potentially serious,serious,6,50.0
+potential risk,not serious,3,17.647058823529413
+potential risk,serious,3,17.647058823529413
+serious,potential risk,2,1.2987012987012987
+not serious,potential risk,2,3.225806451612903
+potentially serious,not serious,2,16.666666666666664
+no risk,not serious,1,50.0
+no risk,serious,1,50.0
+potentially serious,no risk,1,8.333333333333332
+potentially serious,potential risk,1,8.333333333333332
+serious,potentially serious,1,0.6493506493506493
+serious,undecided,1,0.6493506493506493
+undecided,potentially serious,1,3.8461538461538463

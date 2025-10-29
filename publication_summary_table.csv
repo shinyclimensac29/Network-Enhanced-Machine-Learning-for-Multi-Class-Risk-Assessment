@@ -1,0 +1,13 @@
+Metric,Value
+Dataset Size,"1364 samples, 114 features"
+Number of Classes,6
+Network Nodes/Edges,96/374
+Network Modularity,0.293
+Best Model,gb
+Test F1-Macro,0.459
+Test Balanced Acc,0.441
+Cohen's Kappa,0.538
+Top Feature,_year
+Most Important Group,content
+Temporal F1-Macro,0.383
+Temporal Degradation,0.076
