@@ -334,15 +334,20 @@ conda env create -f environment.yml
 
 If you use this code or methodology in your research, please cite:
 ```bibtex
-@article{yourname2025network,
-  title={Network-Enhanced Machine Learning for Multi-Class Risk Assessment: A Case Study of International Food Safety Notifications},
-  author={Your Name and Supervisor Name},
-  journal={Journal Name},
-  year={2025},
-  volume={XX},
-  pages={XXX--XXX},
-  doi={10.XXXX/XXXXXX}
+
+\author[1]{\fnm{Shinyclimensa} \sur{C}}\email{shinyclimensa.c2022@vitstudent.ac.in}
+\author*[1]{\fnm{Parthiban} \sur{A}}\email{parthiban.a@vit.ac.in}
+
+\affil[1]{
+  \orgdiv{School of Advanced Sciences}, 
+  \orgdiv{Department of Mathematics}, 
+  \orgname{Vellore Institute of Technology}, 
+  \city{Vellore}, 
+  \state{Tamil Nadu}, 
+  \postcode{632014}, 
+  \country{India}
 }
+
 ```
 
 **Preprint**: [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
