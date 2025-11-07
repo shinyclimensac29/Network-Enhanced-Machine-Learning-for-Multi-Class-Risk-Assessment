@@ -8,8 +8,8 @@ This repository contains the complete implementation and analysis code for the p
 
 **"Network-Enhanced Machine Learning for Multi-Class Risk Assessment: A Case Study of International Food Safety Notifications"**
 
-*Authors: [Your Name], [Supervisor Name]*
-
+*Authors: Shinyclimensa C, Parthiban A*
+Vellore Institute of Technology, Vellore, 632014, Tamil Nadu, India
 ---
 
 ## 📋 Overview
